@@ -1,4 +1,4 @@
-# Lights Out Solver — Relatório Técnico
+# Lights Out Solver
 
 **Disciplina:** Cálculo Numérico  
 **Professor:** Bruno Xavier  
