@@ -1,7 +1,15 @@
 # Lights Out Solver
 
 **Disciplina:** Cálculo Numérico  
-**Professor:** Bruno Xavier  
+**Docente:** BRUNO XAVIER  
+**Discentes:**
+
+ALAN CLEYTHON CARVALHO PESSOA 
+
+JOSE EMERSON OLIVEIRA DE SOUZA
+
+MAYCON SOARES MAIA
+
 **Instituição:** UFERSA – Campus Pau dos Ferros  
 
 ---
